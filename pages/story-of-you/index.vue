@@ -8,7 +8,9 @@
         <h1 class="text-white text-3xl font-bold tracking-wider">Story of You</h1>
         <p class="text-white text-center text-sm font-light tracking-wider mt-6">Your October statement - personalized and elevated</p>
     </div>
-    <button class="bg-hlb-primary-700 py-2 px-12 rounded-full text-white my-8">See Your Stories</button>
+    <nuxt-link to="/story-of-you/groceries">
+      <button class="bg-hlb-primary-700 py-2 px-12 rounded-full text-white my-8">See Your Stories</button>
+    </nuxt-link>
   </div>
 </template>
 
@@ -19,5 +21,4 @@ export default {
 </script>
 
 <style>
-
 </style>
