@@ -22,23 +22,26 @@
             <!-- input -->
             <input id="toogleA" type="checkbox" class="sr-only" />
             <!-- line -->
-            <div class="w-10 h-4 bg-gray-200 rounded-full shadow-inner"></div>
+            <div class="w-10 h-4 bg-green-200 rounded-full shadow-inner"></div>
             <!-- dot -->
-            <div class="dot absolute w-6 h-6 bg-white rounded-full shadow -left-1 -top-1 transition"></div>
+            <div class="dot absolute w-6 h-6 bg-white rounded-full shadow -left-1 -top-1 transition transform translate-x-full"></div>
           </div>
-          <!-- label -->
-          <div class="ml-3 text-gray-700 font-medium">
-          </div>
-        </label>       
+        </label>
+        
+        
+        
     </div>
+
+    
+
 
     <div>
       <h1 class="text-xs pl-10">QUICK PAY</h1>
     </div>
 
-    <div name="button" class = "pl-6 pt-2">
-      <button class = "border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
-        <h1 class = "text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">K</h1>
+    <div name="button" class="pl-6 pt-2">
+      <button class="border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
+        <h1 class="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">K</h1>
       </button>
       <button class="border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
         <h1 class="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">A
@@ -80,9 +83,9 @@
   
     <div name="Account Box">
       <div class="drop-shadow-md box-border border-solid border-2 ml-6 mr-6 rounded-lg mb-8 flex">
-        <div class="flex col pt-6 pb-4 pl-4"> 
+        <div class="flex col pt-4 pb-4 pl-4"> 
           <div> 
-            <h1 class="text-xl font-medium">-</h1>
+            <span class="text-3xl">3,190.40</span>
             <h1>HL BASIC SAVINGS A/C </h1>
             <h1>********9308</h1>
           </div>
