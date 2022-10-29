@@ -77,6 +77,7 @@
     </div>
     </nuxt-link>
 
+  
     <div name="Account Box">
       <div class="drop-shadow-md box-border border-solid border-2 ml-6 mr-6 rounded-lg mb-8 flex">
         <div class="flex col pt-6 pb-4 pl-4"> 
