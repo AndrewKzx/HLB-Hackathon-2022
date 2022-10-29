@@ -22,7 +22,7 @@
             <!-- input -->
             <input id="toogleA" type="checkbox" class="sr-only" />
             <!-- line -->
-            <div class="w-10 h-4 bg-gray-400 rounded-full shadow-inner"></div>
+            <div class="w-10 h-4 bg-gray-200 rounded-full shadow-inner"></div>
             <!-- dot -->
             <div class="dot absolute w-6 h-6 bg-white rounded-full shadow -left-1 -top-1 transition"></div>
           </div>
@@ -36,7 +36,7 @@
       <h1 class = "text-xs pl-10">QUICK PAY</h1>
     </div>
 
-    <div class = "pl-6 pt-2">
+    <div name="button" class = "pl-6 pt-2">
       <button class = "border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
         <h1 class = "text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">K</h1>
       </button>
@@ -51,30 +51,43 @@
       </button>
     </div>
 
-    <div class="flex space-x-6 pb-6">
+    <div name="Names" class="flex space-x-6 pb-6">
       <h1 class="pl-10">KHOR...</h1> 
       <h1>KHAI...</h1> 
       <h1 class="pl-2">NAZ...</h1> 
     </div>
 
     <div name="banner"> 
-
-      <div class="box-border h-30 w-90 p-4 ml-10 mr-10 rounded-lg mb-8" style="background-color: #4D64FF">
+      <div class="box-border ml-6 mr-6 rounded-lg mb-2 flex" style="background-color: #4D64FF">
         <div class="flex col">
 
-          <div>
+          <div class=" pl-5 pt-5">
             <h1 class="font-medium text-white text-sm">Hawkie has something new for you!</h1>
             <h1 class="text-xs text-white">Check out your monthly statement now</h1>
           </div>
 
           <div>
-            <img src="../static/pngwing 1.png" class="pl-70 flex justify-end">
+            <img src="../static/pngwing 1.png">
           </div>
-          
+        </div>
+      </div>
+    </div>
+
+    <div name="Account Box">
+      <div class="drop-shadow-md box-border border-solid border-2 ml-6 mr-6 rounded-lg mb-8 flex">
+        <div class="flex col pt-6 pb-4 pl-4"> 
+          <div> 
+            <h1 class="text-xl font-medium">-</h1>
+            <h1>HL BASIC SAVINGS A/C </h1>
+            <h1>********9308</h1>
+          </div>
+        </div>
+
+        <div class="pl-28 pt-10 text-3xl"> 
+          <h1>></h1>
         </div>
         
       </div>
-
     </div>
   </div>
 
