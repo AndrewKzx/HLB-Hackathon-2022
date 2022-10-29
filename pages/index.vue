@@ -59,6 +59,7 @@
       <h1 class="pl-2">NAZ...</h1> 
     </div>
 
+    <nuxt-link to="account-page">
     <div name="banner"> 
       <div class="box-border ml-6 mr-6 rounded-lg mb-2 flex" style="background-color: #4D64FF">
         <div class="flex col">
@@ -74,6 +75,7 @@
         </div>
       </div>
     </div>
+    </nuxt-link>
 
     <div name="Account Box">
       <div class="drop-shadow-md box-border border-solid border-2 ml-6 mr-6 rounded-lg mb-8 flex">
