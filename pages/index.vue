@@ -10,7 +10,7 @@
         <h4 class="text-xs pl-10 pb-2">
           TOTAL EQUIVALENT BALANCE (MYR)
         </h4>
-        <span class="text-3xl pl-10">-</span>
+        <span class="text-3xl pl-10">3,190.40</span>
       </div>
 
         <label 
