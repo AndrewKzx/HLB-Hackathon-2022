@@ -17,12 +17,12 @@
         <div class="mt-12 flex pl-6">
             <h3 class="text-hlb-primary-900 text-lg font-bold leading-tight">As an Avid Traveller, Hawkie thinks you
                 would love...</h3>
-            <img class="h-16 -translate-x-2 -translate-y-2" src="~/assets/img/pngwing 2.png" />
+            <img class="h-20 -translate-x-6 -translate-y-3" src="~/assets/img/pngwing 2.png" />
         </div>
 
         <!-- Emirates -->
         <div class="flex flex-col items-center justify-center px-6">
-            <img class="" src="~/assets/img/emirates.png" />
+            <img class="my-6" src="~/assets/img/emirates.png" />
             <h3 class="text-hlb-primary-900 text-xl font-bold leading-tight my-4">Emirates Credit Card</h3>
             <p class="text-white font-light text-sm italic text-center">Enjoy complimentary flight to Europe, Skywards Miles on
                 daily spend, Emirates Skywards Silver membership and many more.</p>
