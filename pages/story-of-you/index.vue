@@ -16,7 +16,8 @@
 
 <script>
 export default {
-  name: 'StoryOfYouPage'
+  name: 'StoryOfYouPage',
+  layout: 'StoryOfYou',
 }
 </script>
 

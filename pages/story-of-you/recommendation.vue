@@ -32,15 +32,20 @@
                 <a href="https://www.hlb.com.my/en/form/credit-card.html?icp=hlb-en-promo-cta-tx-cc-q12223" target="_blank">
                     <button class="bg-hlb-secondary-500 py-2 px-6 rounded-full text-white text-sm">Apply Now</button></a>
             </div>
-            <button class="bg-hlb-primary-700 py-2 px-12 rounded-full text-white mt-16 w-full">See Next Story</button>
-
         </div>
+
+        <nuxt-link to="defining-oct">
+            <div class="px-6">
+                <button class="bg-hlb-primary-700 py-2 rounded-full text-white mt-12 px-16 w-full">See Next Story</button>
+            </div>
+        </nuxt-link>
     </div>
 </template>
   
 <script>
 export default {
-    name: 'StoryOfYouRecommendationPage'
+    name: 'StoryOfYouRecommendationPage',
+    layout: 'StoryOfYou',
 }
 </script>
   

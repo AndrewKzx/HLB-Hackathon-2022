@@ -46,7 +46,7 @@
   
 <script>
 export default {
-
+    layout: 'StoryOfYou',
 }
 </script>
   
