@@ -1,13 +1,13 @@
 <template>
   <div>
-    <div name="Current and Savings" class = "py-12 pl-10 font-medium text-3xl">
+    <div name="Current and Savings" class="py-12 pl-10 font-medium text-3xl">
       <h1>CURRENT &</h1>
       <h1>SAVINGS</h1>
     </div>
-    
+
     <div class="flex items-center justify-left w-full mb-8">
       <div>
-        <h4 class = "text-xs pl-10 pb-2">
+        <h4 class="text-xs pl-10 pb-2">
           TOTAL EQUIVALENT BALANCE (MYR)
         </h4>
         <span class="text-3xl pl-10">-</span>
@@ -32,22 +32,24 @@
         </label>       
     </div>
 
-    <div> 
-      <h1 class = "text-xs pl-10">QUICK PAY</h1>
+    <div>
+      <h1 class="text-xs pl-10">QUICK PAY</h1>
     </div>
 
     <div name="button" class = "pl-6 pt-2">
       <button class = "border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
         <h1 class = "text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">K</h1>
       </button>
-      <button class = "border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
-        <h1 class = "text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">A</h1>
+      <button class="border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
+        <h1 class="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">A
+        </h1>
       </button>
-      <button class = "border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
-        <h1 class = "text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">N</h1>
+      <button class="border-double border-2 drop-shadow-md m-3 w-12 h-12 rounded-full">
+        <h1 class="text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-orange-200 to-red-600">N
+        </h1>
       </button>
-      <button class = "border-double border-2 m-3 w-12 h-12 rounded-full">
-        <h1 class = "text-xl">></h1>
+      <button class="border-double border-2 m-3 w-12 h-12 rounded-full">
+        <h1 class="text-xl">></h1>
       </button>
     </div>
 
@@ -86,7 +88,6 @@
         <div class="pl-28 pt-10 text-3xl"> 
           <h1>></h1>
         </div>
-        
       </div>
     </div>
   </div>
