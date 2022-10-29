@@ -64,21 +64,21 @@
                         <div class="box-border x-2/3 rounded-xl mb-2 pt-3 pr-4 pb-2 pl-4" style="background-color: #2031A1">
                         
                             <div name="Travelling Box" class="flex justify-between italic"> 
-                                <p class=" text-white pr-4" style="font-size:14px">"Travelling to Vietnam in October during the monsoon season"</p>
+                                <p class=" text-white pr-4" style="font-size:14px">"Enjoying hotpot on a chilly evening"</p>
                             
-                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/travel.webp" alt="">
+                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/hotpot.webp" alt="">
                             </div>
                         
                             <div name="Dinner Box" class="flex justify-between pt-4 italic">
-                                <p class=" text-white pr-4" style="font-size:14px">"Treating yourself to an expensive dinner in Kuala Lumpur"</p>
+                                <p class=" text-white pr-4" style="font-size:14px">"Officially starting your hiking journey on a September Saturday"</p>
                             
-                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/dinner.webp" alt="">
+                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/hiking.webp" alt="">
                             </div>
                 
                             <div name="Travelling Box" class="flex justify-between pt-4 italic">
-                                <p class=" text-white pr-4" style="font-size:14px">"Doing groceries on an October weekend at the village grocer"</p>
+                                <p class=" text-white pr-4" style="font-size:14px">"Gaining knowledge on a rainy afternoon in September"</p>
                             
-                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/groceries.webp" alt="">
+                                <img class="x-1/3 w-20 border-solid border-2 rounded-sm" style="border-color: #E5D221" src="~/assets/img/books.jpeg" alt="">
                             </div>
                             
                             <nuxt-link to="groceries">
