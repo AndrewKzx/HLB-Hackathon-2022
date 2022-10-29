@@ -6,7 +6,7 @@
       
       <div class = "pl-6 border pt-1 pb-1 rounded-full mb-2 ml-5" style = "width :250px">HL Basic Savings A/C</div>
         <div class = "pl-10 mt-6 text-4xl mb-8">RM 3,190.40</div>
-       <NuxtLink to = "/" >
+       <NuxtLink to = "/story-of-you" >
           <div class = "pl-1 rounded ml-5 flex" style = "background-color : #4D64FF; width : 350px; height : 70px ">
               <div class ="pt-3">
                 <div style = "font-size : 16px" class = "mt-1 text-white">
