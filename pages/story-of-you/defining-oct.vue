@@ -38,8 +38,8 @@
     </div>
 
     <nuxt-link to ="/">
-    <div class = "flex">
-      <p class = "text-center bg-red-500 rounded-full" >Go to your Anthology</p>
+    <div class = "box-border mt-10 flex bg-red-500 rounded-full w-3/4 h-9 justify-center ml-10 items-center">
+      <p class = "text-center text-white " >Go to your Anthology</p>
       </div>
     </nuxt-link>
 
