@@ -8,14 +8,14 @@
             <h2 class="mt-6 text-4xl mb-8">RM 3,190.40</h2>
         </div>
 
-        <NuxtLink to="/">
+        <NuxtLink to="/story-of-you">
             <div class="p-3 rounded flex w-full" style="background-color : #4D64FF;">
                 <div>
                     <div style="font-size : 16px" class="mt-1 text-white">
-                        The 'Art' of You
+                        The Story of You
                     </div>
-                    <div class="pb-3 text-white" style="font-size : 10px;">
-                        Hawkie has prepared your monthly account highlights
+                    <div class="text-white" style="font-size : 10px;">
+                        Hawkie has prepared your October's Story
                     </div>
                 </div>
 
