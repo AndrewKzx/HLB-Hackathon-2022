@@ -29,7 +29,8 @@
             
             <div class="flex space-x-6 w-full items-start justify-center mt-6">
                 <button class="bg-white py-2 px-6 rounded-full text-hlb-primary-700 text-xs">More Details</button>
-                <button class="bg-hlb-secondary-500 py-2 px-6 rounded-full text-white text-xs">Apply Now</button>
+                <a href="https://www.hlb.com.my/en/form/credit-card.html?icp=hlb-en-promo-cta-tx-cc-q12223" target="_blank">
+                    <button class="bg-hlb-secondary-500 py-2 px-6 rounded-full text-white text-xs">Apply Now</button></a>
             </div>
             <button class="bg-hlb-primary-700 py-2 px-12 rounded-full text-white my-8 w-full">See Next Story</button>
 
