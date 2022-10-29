@@ -1,0 +1,7 @@
+{
+    "nuxt.isNuxtApp": true,
+    "tailwindCSS.includeLanguages": {
+        "vue": "html",
+        "vue-html": "html"
+    }
+}
