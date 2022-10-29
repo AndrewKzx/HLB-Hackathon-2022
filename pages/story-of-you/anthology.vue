@@ -1,6 +1,6 @@
 <template>
   <div class="bg-hlb-primary-500 min-h-screen">
-
+    <metaverse-modal v-show="showModal" @close-modal="showModal = false" />
     <div name="Your Anthology" class=" pl-4 pr-4 pb-3 flex justify-between"> 
         <p class=" w-8 pt-10 flex-none text-3xl text-white"> < </p>
         <h1 class="flex-initial text-center pt-10 text-white font-bold" style="font-size:24px">
@@ -8,7 +8,7 @@
         </h1>
 
         <div class="pt-11">
-            <img class="flex-initial w-8 h-8" src="~/assets/img/Meta Icon.png" alt="">
+            <img @click="showModal = true" class="flex-initial w-8 h-8" src="~/assets/img/Meta Icon.png" alt="">
         </div>
         
     </div>
@@ -101,8 +101,14 @@
 </template>
 
 <script>
-export default {
 
+export default {
+    layout: 'StoryOfYou',
+    data() {
+    return {
+      showModal: false,
+    }
+}
 }
 </script>
 
