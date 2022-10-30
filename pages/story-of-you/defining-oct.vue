@@ -21,7 +21,7 @@
         </div>
         <div class ="pl-6">
          <p class = "text-2xl text-white font-semibold">A Gastronomical <br>Adventure</p> 
-          <p class="italic font-light text-sm text-white">Treating yourself to an expensive dinner in Kuala Lumpur"</p>
+          <p class="italic font-light text-sm text-white">"Treating yourself to an expensive dinner in Kuala Lumpur"</p>
         </div>
         
     </div>
